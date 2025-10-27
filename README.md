@@ -1,4 +1,2 @@
 - 👋 Hi, I'm @HomaPahom
-- 👀 I am interested in web programming
-- 🌱 I am currently studying at the university 
-- 📫 How to contact me pahom6091@gmail.com
+
